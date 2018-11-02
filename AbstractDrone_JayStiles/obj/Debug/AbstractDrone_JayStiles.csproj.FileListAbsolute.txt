@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\AbstractDrone_JayStiles\AbstractDrone_JayStiles\obj\Debug\AbstractDrone_JayStiles.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\AbstractDrone_JayStiles\AbstractDrone_JayStiles\obj\Debug\AbstractDrone_JayStiles.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\AbstractDrone_JayStiles\AbstractDrone_JayStiles\bin\Debug\AbstractDrone_JayStiles.exe.config
+C:\Users\jstiles\source\repos\AbstractDrone_JayStiles\AbstractDrone_JayStiles\bin\Debug\AbstractDrone_JayStiles.exe
+C:\Users\jstiles\source\repos\AbstractDrone_JayStiles\AbstractDrone_JayStiles\bin\Debug\AbstractDrone_JayStiles.pdb
+C:\Users\jstiles\source\repos\AbstractDrone_JayStiles\AbstractDrone_JayStiles\obj\Debug\AbstractDrone_JayStiles.exe
+C:\Users\jstiles\source\repos\AbstractDrone_JayStiles\AbstractDrone_JayStiles\obj\Debug\AbstractDrone_JayStiles.pdb
